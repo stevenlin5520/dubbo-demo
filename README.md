@@ -5,7 +5,10 @@
 ## dubbo-admin为dubbo的管理控制台
 ## zookeeper-3.4.8为服务注册中心
 
-
+<br>
+<br>
+<br>
+<br>
 -----------------------------dubbo-admin-2.6.0启动报错--------------------------------------------------
 
 Caused by: org.springframework.beans.NotWritablePropertyException: Invalid property 'URIType' of bean class 
@@ -25,4 +28,5 @@ property 'URIType' of bean class [com.alibaba.citrus.service.uribroker.uri.Gener
 is not writable or has an invalid setter method. Does the parameter type of the setter match the return type of the getter?
 
 -----------------------------------------错误解决--------------------------------------------------------
+<br>
 使用jdk1.7环境启动，正常运行
